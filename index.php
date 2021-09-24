@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <div class="wrapper">
+    <div class="wrapper border border-secondary mx-auto mt-5">
         <h2>Login</h2>
         <p>Please fill in your credentials to login.</p>
 
@@ -35,7 +35,7 @@
             <div class="form-group">
                 <input type="submit" class="btn btn-primary" value="Login">
             </div>
-            <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
+            <p>Don't have an account? <a href="#">Sign up now</a>.</p>
         </form>
     </div>
 </body>
